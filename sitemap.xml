@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.erinmazerolle.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://www.erinmazerolle.com/</loc>
+</url>
+<url>
+<loc>https://www.erinmazerolle.com/education.html</loc>
+<lastmod>2022-02-19T20:09:01-04:00</lastmod>
+</url>
+<url>
+<loc>https://www.erinmazerolle.com/hackathon.html</loc>
+<lastmod>2022-02-19T09:02:57-04:00</lastmod>
+</url>
+<url>
+<loc>https://www.erinmazerolle.com/idwgs2022.html</loc>
+<lastmod>2022-02-18T21:06:45-04:00</lastmod>
+</url>
+<url>
+<loc>https://www.erinmazerolle.com/join-us.html</loc>
+<lastmod>2022-02-19T19:02:22-04:00</lastmod>
+</url>
+<url>
+<loc>https://www.erinmazerolle.com/nserc2021.html</loc>
+<lastmod>2022-02-19T10:12:50-04:00</lastmod>
+</url>
+<url>
+<loc>https://www.erinmazerolle.com/partners.html</loc>
+<lastmod>2022-02-19T19:28:31-04:00</lastmod>
+</url>
+<url>
+<loc>https://www.erinmazerolle.com/publications.html</loc>
+<lastmod>2022-02-19T06:59:33-04:00</lastmod>
+</url>
+<url>
+<loc>https://www.erinmazerolle.com/team.html</loc>
+<lastmod>2022-02-19T20:05:10-04:00</lastmod>
+</url>
+</urlset>

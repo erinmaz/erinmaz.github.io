@@ -1,0 +1,58 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Mazerolle Lab",
+    "description": "",
+    "home_page_url": "https://www.erinmazerolle.com",
+    "feed_url": "https://www.erinmazerolle.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Erin Mazerolle"
+    },
+    "items": [
+        {
+            "id": "https://www.erinmazerolle.com/idwgs2022.html",
+            "url": "https://www.erinmazerolle.com/idwgs2022.html",
+            "title": "International Day of Women and Girls in Science",
+            "summary": "Erin was featured by StFX for the International Day of Women and Girls in Science. See the story here.",
+            "content_html": "<p>Erin was featured by StFX for the International Day of Women and Girls in Science. See the story <a href=\"https://www.stfx.ca/about/news/women-science-faculty\" target=\"_blank\" rel=\"noopener\">here</a>.</p>",
+            "author": {
+                "name": "Erin Mazerolle"
+            },
+            "tags": [
+                   "News"
+            ],
+            "date_published": "2022-02-18T08:36:31-04:00",
+            "date_modified": "2022-02-18T21:06:45-04:00"
+        },
+        {
+            "id": "https://www.erinmazerolle.com/hackathon.html",
+            "url": "https://www.erinmazerolle.com/hackathon.html",
+            "title": "Lab Members win Hackathon",
+            "summary": "Lab members Kathryn Isenor, Haley Keenan, and Tristan Pye participated in the recent hackathon organized by CARET (Collaboration for Analytics Research, Education, and Technology) and Engage Nova Scotia. The team created the winning infographic on education and time use. Congratulations!",
+            "content_html": "<p>Lab members Kathryn Isenor, Haley Keenan, and Tristan Pye participated in the recent hackathon organized by CARET (Collaboration for Analytics Research, Education, and Technology) and <a href=\"https://engagenovascotia.ca/\" target=\"_blank\" rel=\"noopener\">Engage Nova Scotia</a>. The team created the winning infographic on education and time use. Congratulations!</p>",
+            "author": {
+                "name": "Erin Mazerolle"
+            },
+            "tags": [
+                   "News"
+            ],
+            "date_published": "2021-07-02T15:27:00-03:00",
+            "date_modified": "2022-02-19T09:02:57-04:00"
+        },
+        {
+            "id": "https://www.erinmazerolle.com/nserc2021.html",
+            "url": "https://www.erinmazerolle.com/nserc2021.html",
+            "title": "NSERC Award",
+            "summary": "The Mazerolle lab has been awarded a Natural Sciences and Engineering Council of Canada Discovery Grant and Discovery Launch Supplement! See the story here.",
+            "content_html": "<p>The Mazerolle lab has been awarded a Natural Sciences and Engineering Council of Canada Discovery Grant and Discovery Launch Supplement! See the story <a href=\"https://www.stfx.ca/about/news/StFX-Research-Funding\" target=\"_blank\" rel=\"noopener\">here</a>.</p>",
+            "author": {
+                "name": "Erin Mazerolle"
+            },
+            "tags": [
+                   "News"
+            ],
+            "date_published": "2021-06-06T09:05:00-03:00",
+            "date_modified": "2022-02-19T10:12:50-04:00"
+        }
+    ]
+}

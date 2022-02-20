@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Mazerolle Lab</title>
+    <link href="https://www.erinmazerolle.com/feed.xml" rel="self" />
+    <link href="https://www.erinmazerolle.com" />
+    <updated>2022-02-19T10:12:50-04:00</updated>
+    <author>
+        <name>Erin Mazerolle</name>
+    </author>
+    <id>https://www.erinmazerolle.com</id>
+
+    <entry>
+        <title>International Day of Women and Girls in Science</title>
+        <author>
+            <name>Erin Mazerolle</name>
+        </author>
+        <link href="https://www.erinmazerolle.com/idwgs2022.html"/>
+        <id>https://www.erinmazerolle.com/idwgs2022.html</id>
+            <category term="News"/>
+
+        <updated>2022-02-18T21:06:45-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Erin was featured by StFX for the International Day of Women and Girls in Science. See the story here.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Erin was featured by StFX for the International Day of Women and Girls in Science. See the story <a href="https://www.stfx.ca/about/news/women-science-faculty" target="_blank" rel="noopener">here</a>.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Lab Members win Hackathon</title>
+        <author>
+            <name>Erin Mazerolle</name>
+        </author>
+        <link href="https://www.erinmazerolle.com/hackathon.html"/>
+        <id>https://www.erinmazerolle.com/hackathon.html</id>
+            <category term="News"/>
+
+        <updated>2022-02-19T09:02:57-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Lab members Kathryn Isenor, Haley Keenan, and Tristan Pye participated in the recent hackathon organized by CARET (Collaboration for Analytics Research, Education, and Technology) and Engage Nova Scotia. The team created the winning infographic on education and time use. Congratulations!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Lab members Kathryn Isenor, Haley Keenan, and Tristan Pye participated in the recent hackathon organized by CARET (Collaboration for Analytics Research, Education, and Technology) and <a href="https://engagenovascotia.ca/" target="_blank" rel="noopener">Engage Nova Scotia</a>. The team created the winning infographic on education and time use. Congratulations!</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>NSERC Award</title>
+        <author>
+            <name>Erin Mazerolle</name>
+        </author>
+        <link href="https://www.erinmazerolle.com/nserc2021.html"/>
+        <id>https://www.erinmazerolle.com/nserc2021.html</id>
+            <category term="News"/>
+
+        <updated>2022-02-19T10:12:50-04:00</updated>
+            <summary>
+                <![CDATA[
+                    The Mazerolle lab has been awarded a Natural Sciences and Engineering Council of Canada Discovery Grant and Discovery Launch Supplement! See the story here.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>The Mazerolle lab has been awarded a Natural Sciences and Engineering Council of Canada Discovery Grant and Discovery Launch Supplement! See the story <a href="https://www.stfx.ca/about/news/StFX-Research-Funding" target="_blank" rel="noopener">here</a>.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
