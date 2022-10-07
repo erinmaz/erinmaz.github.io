@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://www.erinmazerolle.com/funding-announcement.html",
+            "url": "https://www.erinmazerolle.com/funding-announcement.html",
+            "title": "Funding announcement",
+            "summary": "The Mazerolle Lab was awarded a Canadian Foundation for Innovation grant to establish neurovascular imaging infrastructure at StFX! A functional near infrared spectroscopy (fNIRS) system will be combined with respiratory gas delivery and measurement equipment. We'll use this new gear to study brain changes in conditions&hellip;",
+            "content_html": "<p>The Mazerolle Lab was awarded a Canadian Foundation for Innovation grant to establish neurovascular imaging infrastructure at StFX! A functional near infrared spectroscopy (fNIRS) system will be combined with respiratory gas delivery and measurement equipment. We'll use this new gear to study brain changes in conditions such as concussion and dementia. Read the story <a href=\"https://stfxuniversity.ca/about/news/Erin-Mazerolle\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">here</a>.</p>",
+            "author": {
+                "name": "Erin Mazerolle"
+            },
+            "tags": [
+                   "News"
+            ],
+            "date_published": "2022-10-07T18:42:45-03:00",
+            "date_modified": "2022-10-07T18:53:13-03:00"
+        },
+        {
             "id": "https://www.erinmazerolle.com/idwgs2022-2.html",
             "url": "https://www.erinmazerolle.com/idwgs2022-2.html",
             "title": "Spring and summer updates",
