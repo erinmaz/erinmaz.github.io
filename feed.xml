@@ -3,12 +3,33 @@
     <title>Mazerolle Lab</title>
     <link href="https://www.erinmazerolle.com/feed.xml" rel="self" />
     <link href="https://www.erinmazerolle.com" />
-    <updated>2022-10-07T18:53:13-03:00</updated>
+    <updated>2023-05-09T13:51:07-03:00</updated>
     <author>
         <name>Erin Mazerolle</name>
     </author>
     <id>https://www.erinmazerolle.com</id>
 
+    <entry>
+        <title>Congratulations Chloe!</title>
+        <author>
+            <name>Erin Mazerolle</name>
+        </author>
+        <link href="https://www.erinmazerolle.com/congratulations-chloe.html"/>
+        <id>https://www.erinmazerolle.com/congratulations-chloe.html</id>
+            <category term="News"/>
+
+        <updated>2023-05-09T13:51:07-03:00</updated>
+            <summary>
+                <![CDATA[
+                    Congratulations to Chloe Oleksiuk, who received summer research funding via a Scotia Scholar Award from Research Nova Scotia. Chloe will be working on a project to share the relationship between concussion history and dementia risk with athletes. Her project is co-supervised by Dr. Erin Mazerolle&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Congratulations to Chloe Oleksiuk, who received summer research funding via a Scotia Scholar Award from Research Nova Scotia. Chloe will be working on a project to share the relationship between concussion history and dementia risk with athletes. Her project is co-supervised by Dr. Erin Mazerolle and <a href="https://www.mystfx.ca/human-kinetics/node/391" target="_blank" rel="nofollow noopener noreferrer">Dr. Sebastian Harenberg</a> (Human Kinetics, StFX).</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Funding announcement</title>
         <author>
@@ -18,15 +39,15 @@
         <id>https://www.erinmazerolle.com/funding-announcement.html</id>
             <category term="News"/>
 
-        <updated>2022-10-07T18:53:13-03:00</updated>
+        <updated>2023-05-09T13:49:58-03:00</updated>
             <summary>
                 <![CDATA[
-                    The Mazerolle Lab was awarded a Canadian Foundation for Innovation grant to establish neurovascular imaging infrastructure at StFX! A functional near infrared spectroscopy (fNIRS) system will be combined with respiratory gas delivery and measurement equipment. We'll use this new gear to study brain changes in conditions&hellip;
+                    The Mazerolle Lab was awarded a Canadian Foundation for Innovation grant to establish neurovascular imaging infrastructure at StFX! A functional near infrared spectroscopy (fNIRS) system will be combined with respiratory gas delivery and measurement equipment. We'll use this new gear to study brain changes in&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>The Mazerolle Lab was awarded a Canadian Foundation for Innovation grant to establish neurovascular imaging infrastructure at StFX! A functional near infrared spectroscopy (fNIRS) system will be combined with respiratory gas delivery and measurement equipment. We'll use this new gear to study brain changes in conditions such as concussion and dementia. Read the story <a href="https://stfxuniversity.ca/about/news/Erin-Mazerolle" target="_blank" rel="nofollow noopener noreferrer">here</a>.</p>
+                <p>The Mazerolle Lab was awarded a Canadian Foundation for Innovation grant to establish neurovascular imaging infrastructure at StFX! A functional near infrared spectroscopy (fNIRS) system will be combined with respiratory gas delivery and measurement equipment. We'll use this new gear to study brain changes in conditions such as concussion and dementia. <a href="https://stfxuniversity.ca/about/news/Erin-Mazerolle" target="_blank" rel="nofollow noopener noreferrer">Read the story here</a>.</p>
             ]]>
         </content>
     </entry>
