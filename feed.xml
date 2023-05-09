@@ -3,12 +3,38 @@
     <title>Mazerolle Lab</title>
     <link href="https://www.erinmazerolle.com/feed.xml" rel="self" />
     <link href="https://www.erinmazerolle.com" />
-    <updated>2023-05-09T13:55:17-03:00</updated>
+    <updated>2023-05-09T14:42:08-03:00</updated>
     <author>
         <name>Erin Mazerolle</name>
     </author>
     <id>https://www.erinmazerolle.com</id>
 
+    <entry>
+        <title>Convocation news</title>
+        <author>
+            <name>Erin Mazerolle</name>
+        </author>
+        <link href="https://www.erinmazerolle.com/convocation-news.html"/>
+        <id>https://www.erinmazerolle.com/convocation-news.html</id>
+            <category term="News"/>
+
+        <updated>2023-05-09T14:42:08-03:00</updated>
+            <summary>
+                <![CDATA[
+                    Congratulations to our current and former lab members who were recognized for their achievements at StFX's Spring 2023 convocation: Shane Kenny received his BEd! Ethan Draper received his BA (Honours) and was awarded a University Gold Medal for holding the highest average in the final&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Congratulations to our current and former lab members who were recognized for their achievements at StFX's Spring 2023 convocation:</p>
+<ul>
+<li>Shane Kenny received his BEd!</li>
+<li>Ethan Draper received his BA (Honours) and was awarded a University Gold Medal for holding the highest average in the final three years of his program!</li>
+<li>Dr. Erin received the President's Research Award!</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Congratulations Chloe!</title>
         <author>

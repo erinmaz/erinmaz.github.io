@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://www.erinmazerolle.com/convocation-news.html",
+            "url": "https://www.erinmazerolle.com/convocation-news.html",
+            "title": "Convocation news",
+            "summary": "Congratulations to our current and former lab members who were recognized for their achievements at StFX's Spring 2023 convocation: Shane Kenny received his BEd! Ethan Draper received his BA (Honours) and was awarded a University Gold Medal for holding the highest average in the final&hellip;",
+            "content_html": "<p>Congratulations to our current and former lab members who were recognized for their achievements at StFX's Spring 2023 convocation:</p>\n<ul>\n<li>Shane Kenny received his BEd!</li>\n<li>Ethan Draper received his BA (Honours) and was awarded a University Gold Medal for holding the highest average in the final three years of his program!</li>\n<li>Dr. Erin received the President's Research Award!</li>\n</ul>",
+            "author": {
+                "name": "Erin Mazerolle"
+            },
+            "tags": [
+                   "News"
+            ],
+            "date_published": "2023-05-09T14:42:08-03:00",
+            "date_modified": "2023-05-09T14:42:08-03:00"
+        },
+        {
             "id": "https://www.erinmazerolle.com/congratulations-chloe.html",
             "url": "https://www.erinmazerolle.com/congratulations-chloe.html",
             "title": "Congratulations Chloe!",
