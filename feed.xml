@@ -3,12 +3,33 @@
     <title>Mazerolle Lab</title>
     <link href="https://www.erinmazerolle.com/feed.xml" rel="self" />
     <link href="https://www.erinmazerolle.com" />
-    <updated>2024-09-21T16:02:58-03:00</updated>
+    <updated>2025-03-08T15:32:32-04:00</updated>
     <author>
         <name>Erin Mazerolle</name>
     </author>
     <id>https://www.erinmazerolle.com</id>
 
+    <entry>
+        <title>Congratulations to Mazerolle Lab members!</title>
+        <author>
+            <name>Erin Mazerolle</name>
+        </author>
+        <link href="https://www.erinmazerolle.com/idwgs2022-4.html"/>
+        <id>https://www.erinmazerolle.com/idwgs2022-4.html</id>
+            <category term="News"/>
+
+        <updated>2025-03-08T15:21:40-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Congratulations to Lydia Shaw-Peters and Kate LeBlanc on their successful StFX Summer Research Award applications!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Congratulations to Lydia Shaw-Peters and Kate LeBlanc on their successful StFX Summer Research Award applications!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>2023-2024 updates!</title>
         <author>
