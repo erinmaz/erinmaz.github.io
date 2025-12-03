@@ -3,12 +3,33 @@
     <title>Brain Health Lab @ StFX</title>
     <link href="https://www.erinmazerolle.com/feed.xml" rel="self" />
     <link href="https://www.erinmazerolle.com" />
-    <updated>2025-03-11T07:20:29-03:00</updated>
+    <updated>2025-12-03T07:26:02-04:00</updated>
     <author>
         <name>Erin Mazerolle</name>
     </author>
     <id>https://www.erinmazerolle.com</id>
 
+    <entry>
+        <title>Participate in a study</title>
+        <author>
+            <name>Erin Mazerolle</name>
+        </author>
+        <link href="https://www.erinmazerolle.com/idwgs2022-5.html"/>
+        <id>https://www.erinmazerolle.com/idwgs2022-5.html</id>
+            <category term="News"/>
+
+        <updated>2025-12-02T20:01:37-04:00</updated>
+            <summary>
+                <![CDATA[
+                    We're looking for participants aged 20-45 to participate in a brief telephone study of memory and executive function. This study will help us identify SuperAgers (older adults with exceptional memory) in the Canadian Longitudinal Study on Aging database. Read more about the study.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>We're looking for participants aged 20-45 to participate in a brief telephone study of memory and executive function. This study will help us identify SuperAgers (older adults with exceptional memory) in the Canadian Longitudinal Study on Aging database. <a href="https://stfx.qualtrics.com/jfe/form/SV_3jXzr3qXpx1KQaa?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnCX6DaQCKxKUmiZhUl7Tv-2ln8nBt9MsqpkAwO0RDTQ_44W59zldpkHY7ceQ_aem_wIKei1VRVsHteFnzC9T3Qg">Read more about the study</a>.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Congratulations to Mazerolle Lab members!</title>
         <author>
