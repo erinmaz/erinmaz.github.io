@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://www.erinmazerolle.com/idwgs2022-6.html",
+            "url": "https://www.erinmazerolle.com/idwgs2022-6.html",
+            "title": "We&#x27;re hiring!",
+            "summary": "Find more information on the \"Join us!\" page.",
+            "content_html": "<p>Find more information on the \"<a href=\"https://www.erinmazerolle.com/join-us.html\">Join us!</a>\" page.</p>",
+            "author": {
+                "name": "Erin Mazerolle"
+            },
+            "tags": [
+                   "News"
+            ],
+            "date_published": "2026-06-23T16:41:10-03:00",
+            "date_modified": "2026-06-23T16:43:36-03:00"
+        },
+        {
             "id": "https://www.erinmazerolle.com/idwgs2022-5.html",
             "url": "https://www.erinmazerolle.com/idwgs2022-5.html",
             "title": "Participate in a study",

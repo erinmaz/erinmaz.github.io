@@ -3,12 +3,33 @@
     <title>Brain Health Lab @ StFX</title>
     <link href="https://www.erinmazerolle.com/feed.xml" rel="self" />
     <link href="https://www.erinmazerolle.com" />
-    <updated>2026-03-15T19:11:44-03:00</updated>
+    <updated>2026-06-23T16:43:36-03:00</updated>
     <author>
         <name>Erin Mazerolle</name>
     </author>
     <id>https://www.erinmazerolle.com</id>
 
+    <entry>
+        <title>We&#x27;re hiring!</title>
+        <author>
+            <name>Erin Mazerolle</name>
+        </author>
+        <link href="https://www.erinmazerolle.com/idwgs2022-6.html"/>
+        <id>https://www.erinmazerolle.com/idwgs2022-6.html</id>
+            <category term="News"/>
+
+        <updated>2026-06-23T16:41:10-03:00</updated>
+            <summary>
+                <![CDATA[
+                    Find more information on the "Join us!" page.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Find more information on the "<a href="https://www.erinmazerolle.com/join-us.html">Join us!</a>" page.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Participate in a study</title>
         <author>
